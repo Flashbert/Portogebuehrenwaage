@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<briefporto>
+ <briefart>
+    <Name>Standard</Name>   
+   <porto>
+      <gewichtvon>1</gewichtvon>
+	  <gewichtbis>20</gewichtbis>
+	  <preis>DE 0,80</preis>
+    </porto>
+	<porto>
+      <gewichtvon>1</gewichtvon>
+	  <gewichtbis>20</gewichtbis>
+	  <preis>INT 1,10</preis>
+    </porto>
+ </briefart>
+ <briefart>
+    <Name>Kompakt</Name>   
+   <porto>
+      <gewichtvon>21</gewichtvon>
+	  <gewichtbis>50</gewichtbis>
+	  <preis>DE 0,95</preis>
+    </porto>
+	<porto>
+      <gewichtvon>21</gewichtvon>
+	  <gewichtbis>50</gewichtbis>
+	  <preis>INT 1,70</preis>
+    </porto>
+ </briefart>
+  <briefart>
+    <Name>Groß</Name>   
+   <porto>
+      <gewichtvon>51</gewichtvon>
+	  <gewichtbis>500</gewichtbis>
+	  <preis>DE 1,55</preis>
+    </porto>
+	<porto>
+      <gewichtvon>51</gewichtvon>
+	  <gewichtbis>500</gewichtbis>
+	  <preis>DE 3,70</preis>
+    </porto>
+ </briefart>
+  <briefart>
+    <Name>Maxi</Name>   
+   <porto>
+      <gewichtvon>501</gewichtvon>
+	  <gewichtbis>1000</gewichtbis>
+	  <preis>DE 2,70</preis>
+    </porto>
+	<porto>
+      <gewichtvon>1001</gewichtvon>
+	  <gewichtbis>2000</gewichtbis>
+	  <preis>DE 4,90</preis>
+    </porto>
+	<porto>
+      <gewichtvon>501</gewichtvon>
+	  <gewichtbis>1000</gewichtbis>
+	  <preis>INT 7,00</preis>
+    </porto>
+	<porto>
+      <gewichtvon>1001</gewichtvon>
+	  <gewichtbis>2000</gewichtbis>
+	  <preis>INT 17,00</preis>
+    </porto>
+ </briefart>
+   <briefart>
+    <Name>Päckchen S</Name>   
+   <porto>
+      <gewichtvon>1</gewichtvon>
+	  <gewichtbis>2000</gewichtbis>
+	  <preis>DE 3,79</preis>
+    </porto>
+ </briefart>
+   <briefart>
+    <Name>Päckchen M</Name>   
+   <porto>
+      <gewichtvon>1</gewichtvon>
+	  <gewichtbis>2000</gewichtbis>
+	  <preis>DE 4,50</preis>
+    </porto>
+	<porto>
+      <gewichtvon>1</gewichtvon>
+	  <gewichtbis>2000</gewichtbis>
+	  <preis>EU 9,00</preis>
+    </porto>
+	<porto>
+      <gewichtvon>1</gewichtvon>
+	  <gewichtbis>2000</gewichtbis>
+	  <preis>INT 16,00</preis>
+    </porto>
+ </briefart>
+   <briefart>
+    <Name>Einschreiben</Name>   
+   <porto>
+      <gewichtvon>1</gewichtvon>
+	  <gewichtbis>20</gewichtbis>
+	  <preis>SB DE 3,10</preis>
+    </porto>
+	<porto>
+      <gewichtvon>1</gewichtvon>
+	  <gewichtbis>20</gewichtbis>
+	  <preis>SB INT 3,60</preis>
+    </porto>
+	<porto>
+      <gewichtvon>21</gewichtvon>
+	  <gewichtbis>50</gewichtbis>
+	  <preis>KB DE 3,45</preis>
+    </porto>
+	<porto>
+      <gewichtvon>21</gewichtvon>
+	  <gewichtbis>50</gewichtbis>
+	  <preis>KB INT 4,20</preis>
+    </porto>
+	<porto>
+      <gewichtvon>51</gewichtvon>
+	  <gewichtbis>500</gewichtbis>
+	  <preis>GB DE 4,05</preis>
+    </porto>
+	<porto>
+      <gewichtvon>51</gewichtvon>
+	  <gewichtbis>500</gewichtbis>
+	  <preis>GB INT 6,20</preis>
+    </porto>
+	<porto>
+      <gewichtvon>501</gewichtvon>
+	  <gewichtbis>1000</gewichtbis>
+	  <preis>MB DE 5,20</preis>
+    </porto>
+	<porto>
+      <gewichtvon>501</gewichtvon>
+	  <gewichtbis>1000</gewichtbis>
+	  <preis>MB INT 9,50</preis>
+    </porto>
+	<porto>
+      <gewichtvon>1001</gewichtvon>
+	  <gewichtbis>2000</gewichtbis>
+	  <preis>MB DE 7,40</preis>
+    </porto>
+	<porto>
+      <gewichtvon>1001</gewichtvon>
+	  <gewichtbis>2000</gewichtbis>
+	  <preis>MB INT 19,50</preis>
+    </porto>
+ </briefart>
+   <briefart>
+    <Name>Einschreiben mit Rückschein</Name>   
+   <porto>
+      <gewichtvon>1</gewichtvon>
+	  <gewichtbis>20</gewichtbis>
+	  <preis>SB DE 5,30</preis>
+    </porto>
+	<porto>
+      <gewichtvon>1</gewichtvon>
+	  <gewichtbis>20</gewichtbis>
+	  <preis>SB INT 5,80</preis>
+    </porto>
+	<porto>
+      <gewichtvon>21</gewichtvon>
+	  <gewichtbis>50</gewichtbis>
+	  <preis>KB DE 5,65</preis>
+    </porto>
+	<porto>
+      <gewichtvon>21</gewichtvon>
+	  <gewichtbis>50</gewichtbis>
+	  <preis>KB INT 6,40</preis>
+    </porto>
+	<porto>
+      <gewichtvon>51</gewichtvon>
+	  <gewichtbis>500</gewichtbis>
+	  <preis>GB DE 6,25</preis>
+    </porto>
+	<porto>
+      <gewichtvon>51</gewichtvon>
+	  <gewichtbis>500</gewichtbis>
+	  <preis>GB INT 8,40</preis>
+    </porto>
+	<porto>
+      <gewichtvon>501</gewichtvon>
+	  <gewichtbis>1000</gewichtbis>
+	  <preis>MB DE 7,40</preis>
+    </porto>
+	<porto>
+      <gewichtvon>501</gewichtvon>
+	  <gewichtbis>1000</gewichtbis>
+	  <preis>MB INT 11,70</preis>
+    </porto>
+	<porto>
+      <gewichtvon>1001</gewichtvon>
+	  <gewichtbis>2000</gewichtbis>
+	  <preis>MB DE 9,60</preis>
+    </porto>
+	<porto>
+      <gewichtvon>1001</gewichtvon>
+	  <gewichtbis>2000</gewichtbis>
+	  <preis>MB INT 21,70</preis>
+    </porto>
+ </briefart>
+</briefporto>

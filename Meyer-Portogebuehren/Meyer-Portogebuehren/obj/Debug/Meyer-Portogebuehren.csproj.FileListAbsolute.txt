@@ -1,0 +1,15 @@
+c:\users\kestler1159\documents\visual studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\bin\Debug\Meyer-Portogebuehren.exe.config
+c:\users\kestler1159\documents\visual studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Debug\Meyer_Portogebuehren.Properties.Resources.resources
+c:\users\kestler1159\documents\visual studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Debug\Meyer-Portogebuehren.csproj.GenerateResource.Cache
+c:\users\kestler1159\documents\visual studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\bin\Debug\Meyer-Portogebuehren.exe
+c:\users\kestler1159\documents\visual studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\bin\Debug\Meyer-Portogebuehren.pdb
+c:\users\kestler1159\documents\visual studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\bin\Debug\HidLibrary.dll
+c:\users\kestler1159\documents\visual studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\bin\Debug\HidLibrary.pdb
+c:\users\kestler1159\documents\visual studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Debug\Meyer-Portogebuehren.exe
+c:\users\kestler1159\documents\visual studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Debug\Meyer-Portogebuehren.pdb
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\bin\Debug\Theraot.Core.dll
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Debug\Meyer-Portogebuehren.csprojAssemblyReference.cache
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Debug\Meyer-Portogebuehren.csproj.CoreCompileInputs.cache
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Debug\Meyer-Portogebuehren.csproj.CopyComplete
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Debug\Meyer_Portogebuehren.frmMain.resources
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\bin\Debug\portotab.xml

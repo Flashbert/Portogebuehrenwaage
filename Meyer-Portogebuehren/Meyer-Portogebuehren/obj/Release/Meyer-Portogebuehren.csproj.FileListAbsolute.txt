@@ -1,0 +1,14 @@
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\bin\Release\Meyer-Portogebuehren.exe.config
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\bin\Release\Meyer-Portogebuehren.exe
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\bin\Release\Meyer-Portogebuehren.pdb
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\bin\Release\HidLibrary.dll
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\bin\Release\Theraot.Core.dll
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\bin\Release\HidLibrary.pdb
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Release\Meyer_Portogebuehren.frmMain.resources
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Release\Meyer_Portogebuehren.Properties.Resources.resources
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Release\Meyer-Portogebuehren.csproj.GenerateResource.cache
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Release\Meyer-Portogebuehren.csproj.CoreCompileInputs.cache
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Release\Meyer-Portogebuehren.csproj.CopyComplete
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Release\Meyer-Portogebuehren.exe
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Release\Meyer-Portogebuehren.pdb
+C:\Users\Kestler1159\Documents\Visual Studio 2015\Projects\Meyer-Portogebuehren\Meyer-Portogebuehren\obj\Release\Meyer-Portogebuehren.csprojAssemblyReference.cache
