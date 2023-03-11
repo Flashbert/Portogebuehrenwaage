@@ -1,6 +1,6 @@
-# Portogebuehrenwaage / postage calculator
+# Portogebuehrenwaage / postal service stamp calculator
 
-Reads weight of Dymo M5 and shows it on the screen, furthermore you can set different weights in the portotab.xml which shows the price for the stamps you need.
+Reads the weight of a Dymo M5 scale and shows it on the screen (live), furthermore you can set different weights in the portotab.xml which shows the price for the stamps you need based on the weight of the package or letter.
 
 All values are dynamically generated, so you can add or remove as you prefer.
 
